@@ -20,8 +20,8 @@
 <img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> PANHWAR-MD </h1> 
-<p align="center">PANHWAR-MD made for people, on Earth </p>
+<h1 align="center"> ABDULLAH-KING-MD </h1> 
+<p align="center"> ABDULLAH-KING-MD made for people, on Earth </p>
 
  
    
