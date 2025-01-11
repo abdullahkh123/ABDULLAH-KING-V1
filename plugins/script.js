@@ -16,7 +16,7 @@ let repo =`
 *|* *ABDULLAH KING*
 
 > *ABDULLAH KING MD REPO:*
-*|* *https://github.com/abdullahkh123/ABDULLAH-KING-MD*
+*|* *https://github.com/abdullahkh123/ABDULLAH-KING-V1*
 
 > *SUPPORT CHANNEL:*
 *|* *https://whatsapp.com/channel/0029VauRrf0DOQIUMFSnDZ24*
@@ -39,7 +39,7 @@ externalAdReply: {
 title: 'ABDULLAH-KING MD', 
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/abdullahkh123/ABDULLAH-KING-MD" ,
+sourceUrl: "https://github.com/abdullahkh123/ABDULLAH-KING-V1" ,
 thumbnailUrl: "https://i.imgur.com/UfzyhWN.jpeg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
