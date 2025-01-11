@@ -34,7 +34,7 @@
 
 
 <p align="center"> ABDULLAH-KING-MD uses
-  <a href="https://github.com/Panhwar110/ABDULLAH-KING-MD">Multi-Device Baileys.</a>
+  <a href="https://github.com/Panhwar110/panhwar-MD">Multi-Device Baileys.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
