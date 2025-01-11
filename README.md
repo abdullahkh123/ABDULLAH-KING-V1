@@ -10,7 +10,7 @@
 ---
 <p align="center">
   <a href="https://github.com/Panhwar110">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=ABDULLAH-KIMG-MD-+v2.0+MultiDevice;Developed+by+ABDULLAH-KING;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=ABDULLAH-KING-MD-+v2.0+MultiDevice;Developed+by+ABDULLAH-KING;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
   </a>
 </p>
 
