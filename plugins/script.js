@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *ABDULLAH KING*
 
-> *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+> *ABDULLAH KING MD REPO:*
+*|* *https://github.com/abdullahkh123/ABDULLAH-KING-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029VauRrf0DOQIUMFSnDZ24*
 *╰──────────────●●►*
 
-> *PANHWAR-MD*
+> *ABDULLAH-KIMG-MD*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -31,15 +31,15 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363321103874131@newsletter',
-      newsletterName: "ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
+      newsletterJid: '120363358664877093@newsletter',
+      newsletterName: "𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇-𝐊𝐈𝐍𝐆-𝐌𝐃",
       serverMessageId: 144
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'ABDULLAH-KING MD', 
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
+sourceUrl: "https://github.com/abdullahkh123/ABDULLAH-KING-MD" ,
 thumbnailUrl: "https://i.imgur.com/UfzyhWN.jpeg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
