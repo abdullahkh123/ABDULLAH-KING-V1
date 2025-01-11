@@ -33,8 +33,8 @@
 
 
 
-<p align="center"> PANHWAR-MD uses
-  <a href="https://github.com/Panhwar110/Panhwar-MD">Multi-Device Baileys.</a>
+<p align="center"> ABDULLAH-KING-MD uses
+  <a href="https://github.com/Panhwar110/ABDULLAH-KING-MD">Multi-Device Baileys.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
@@ -42,7 +42,7 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://powered-by-ansar-664f9fe56b2d.herokuapp.com/)
+1. Link your WhatsApp by [`PAIR CODE`](https://powered-by-abdullah-664f9fe56b2d.herokuapp.com/)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD)
 4.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/62)***
